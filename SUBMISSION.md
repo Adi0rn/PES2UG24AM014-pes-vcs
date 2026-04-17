@@ -343,7 +343,7 @@ Each commit message clearly describes the changes made and follows best practice
 
 ## Repository Link
 
-GitHub Repository: https://github.com/SunOrangeBurger/PES2UG24AM014-pes-vcs
+GitHub Repository: https://github.com/Adi0rn/PES2UG24AM014-pes-vcs.git
 
 ---
 
